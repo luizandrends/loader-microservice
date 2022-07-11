@@ -6,4 +6,4 @@ router.get('/', (request, response) => {
   return response.json({ ok: true });
 });
 
-export default Router;
+export default router;
